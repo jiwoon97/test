@@ -45,7 +45,7 @@ HkDto dto=(HkDto)request.getAttribute("dto");
 			<td colspan="2">
 				<input type="submit" value="수정"/>
 				<button type="button" onclick="boardList()">목록</button>
-				<button type="button" onclick="boardList()">테스트 버튼</button>
+				
 			</td>
 		</tr>
 	</table>
